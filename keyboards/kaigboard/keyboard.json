@@ -2,7 +2,7 @@
     "manufacturer": "Alexandre Ignjatovic",
     "keyboard_name": "kaigboard",
     "maintainer": "bankair",
-    "bootloader": "atmel-dfu",
+    "bootloader": "caterina",
     "diode_direction": "COL2ROW",
     "features": {
         "bootmagic": true,
